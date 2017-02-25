@@ -6,9 +6,9 @@ public class Pokemon {
 	private int vidaPokemon;
 	
 	public Pokemon() {
-		this.nombrePokemon = nombrePokemon;
-		this.estadoPokemon = estadoPokemon;
-		this.vidaPokemon = vidaPokemon;
+		this.nombrePokemon = "";
+		this.estadoPokemon = "";
+		this.vidaPokemon = 10;
 		
 	}
 
