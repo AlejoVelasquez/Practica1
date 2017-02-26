@@ -52,8 +52,9 @@ public class Tamagotchi {
 		int actual;
 		for(actual = 0; actual < 5; actual++){
 			System.out.println("Ingrese el nombre del Pokemon");
-			Pokemon pokemonActual = new Pokemon();
-			pokemonActual.setNombrePokemon(this.entrada.next());
+			//Pokemon pokemonActual = new Pokemon();
+			//pokemonActual.setNombrePokemon(this.entrada.next());
+			
 			
 			
 		}
